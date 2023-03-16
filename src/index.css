@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --min-height: calc(100vh - 6rem)
+}
+main {
+    min-height: var(--min-height);
+}
+
+.custom-height {
+    min-height: var(--min-height);
+}
