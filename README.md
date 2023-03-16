@@ -3,4 +3,5 @@
   - Lazy Router concept
 - CSS
   - Tailwind css
-- Fetching data from https://reqres.in/api/ with React query
+- React query
+  - Fetching data from https://reqres.in/api/
